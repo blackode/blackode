@@ -1,4 +1,4 @@
-![Profile Header Image](assets/images/header.jpeg)
+![Profile Header Image](assets/images/header.png)
 ### Hi there 👋
 
 <!--
