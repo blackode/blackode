@@ -1,3 +1,4 @@
+![Profile Header Image](assets/images/header.jpeg)
 ### Hi there 👋
 
 <!--
