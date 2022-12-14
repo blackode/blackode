@@ -1,8 +1,9 @@
+### Hi there 👋
+
 ![Profile Header Image](assets/images/header.png)
 
 <!-- Github Trends -->
-![Github Trends](https://api.githubtrends.io/user/svg/blackode/repos?time_range=one_year&theme=dark)
-### Hi there 👋
+<!-- ![Github Trends](https://api.githubtrends.io/user/svg/blackode/repos?time_range=one_year&theme=dark) -->
 
 <!--
 **blackode/blackode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
