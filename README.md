@@ -1,4 +1,7 @@
 ![Profile Header Image](assets/images/header.png)
+
+<!-- Github Trends -->
+![Github Trends](https://api.githubtrends.io/user/svg/blackode/repos?time_range=one_year&theme=dark)
 ### Hi there 👋
 
 <!--
